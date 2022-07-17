@@ -1,3 +1,3 @@
 print("Hello World from Python")
-print("Hello World from Python - Poll SCM test1")
+print("Hello World from Python - Poll SCM test2")
 
